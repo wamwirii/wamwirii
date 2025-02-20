@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any learning materials and projects.
 - 📫 How to reach me via my gmail account:a.wamwiirii@gmail.com.
 - 😄 Pronouns: He/Is/Him.
-- ⚡ Fun fact: A Day in Venus are actually longer than an year.
+- ⚡ Fun fact: A Day in Venus is actually longer than an year.
 
 <!---
 wamwirii/wamwirii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
